@@ -1,0 +1,14 @@
+/mnt/d/projects/serd/bin/Debug/net8.0/serd
+/mnt/d/projects/serd/bin/Debug/net8.0/serd.deps.json
+/mnt/d/projects/serd/bin/Debug/net8.0/serd.runtimeconfig.json
+/mnt/d/projects/serd/bin/Debug/net8.0/serd.dll
+/mnt/d/projects/serd/bin/Debug/net8.0/serd.pdb
+/mnt/d/projects/serd/obj/Debug/net8.0/serd.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/projects/serd/obj/Debug/net8.0/serd.AssemblyInfoInputs.cache
+/mnt/d/projects/serd/obj/Debug/net8.0/serd.AssemblyInfo.cs
+/mnt/d/projects/serd/obj/Debug/net8.0/serd.csproj.CoreCompileInputs.cache
+/mnt/d/projects/serd/obj/Debug/net8.0/serd.dll
+/mnt/d/projects/serd/obj/Debug/net8.0/refint/serd.dll
+/mnt/d/projects/serd/obj/Debug/net8.0/serd.pdb
+/mnt/d/projects/serd/obj/Debug/net8.0/serd.genruntimeconfig.cache
+/mnt/d/projects/serd/obj/Debug/net8.0/ref/serd.dll
